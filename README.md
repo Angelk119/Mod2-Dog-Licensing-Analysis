@@ -66,7 +66,7 @@ The analysis of dog populations by zip code provides a "treasure map" for target
 
 For a more interactive exploration of these insights, please view our Tableau dashboard.
 
-[**Link to Tableau Dashboard**](https://public.tableau.com/app/profile/angel.bautista/viz/shared/6Q5XSC2WN)
+[**Link to Tableau Dashboard**](https://public.tableau.com/app/profile/angel.bautista/viz/DogLicensingDashboard-Capstone/DogLicensingDashboard?publish=yes)
 
 -----
 
@@ -100,11 +100,11 @@ Based on these facts, we recommend the following strategic actions:
 
 ## Repo Navigation
 
-  * **/data**: Contains the raw (`Dog_licensing.csv`) and cleaned (`final_dataset.csv`) data files.
-  * **cleaning_and_eda.ipynb**: The Jupyter Notebook used for all data cleaning, processing, and visualization.
+  * **Data**: Contains the raw (`Dog_licensing.csv`), (`borough_summary.csv`), and (`zip_level_summary.csv`) data files.
+  * **Notebooks**: The Jupyter Notebook used for all data cleaning, processing, and visualization.
+  * **Figures** Base visuals created during the Jupyter Notebook process.
   * **README.md**: This file, providing a complete overview of the project.
 
-## Group Members & Linkedin
+## Linkedin
 
   * **Angel Bautista**: https://www.linkedin.com/in/angel-bautista-ba2228367/
-  * **Kabbo Sultan**: https://www.linkedin.com/in/kabbosultan/
